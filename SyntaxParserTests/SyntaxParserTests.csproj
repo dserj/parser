@@ -58,6 +58,10 @@
       <Project>{F8ADB1AF-2371-4628-8715-877669FB5EB9}</Project>
       <Name>PolishConverter</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PolishEvaluator\PolishEvaluator\PolishEvaluator.csproj">
+      <Project>{5fb0b6b5-6a26-4242-aa8c-fa1367d9041c}</Project>
+      <Name>PolishEvaluator</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

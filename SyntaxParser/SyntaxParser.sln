@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishConverter", "..\Polis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxParserTests", "..\SyntaxParserTests\SyntaxParserTests.csproj", "{18429FE7-750C-4C8B-91B6-1520ED922A79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishEvaluator", "..\PolishEvaluator\PolishEvaluator\PolishEvaluator.csproj", "{5FB0B6B5-6A26-4242-AA8C-FA1367D9041C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB0B6B5-6A26-4242-AA8C-FA1367D9041C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB0B6B5-6A26-4242-AA8C-FA1367D9041C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB0B6B5-6A26-4242-AA8C-FA1367D9041C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB0B6B5-6A26-4242-AA8C-FA1367D9041C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

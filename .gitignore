@@ -4,3 +4,6 @@ SyntaxParser/bin/
 SyntaxParserTests/bin/
 SyntaxParser/obj/
 SyntaxParserTests/obj/
+PolishEvaluator/PolishEvaluator/bin/
+PolishEvaluator/PolishEvaluator/obj/
+SyntaxParser/_ReSharper.SyntaxParser/
