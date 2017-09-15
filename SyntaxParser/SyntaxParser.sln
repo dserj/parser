@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxParser", "SyntaxParser.csproj", "{7B5AD044-F6C6-48B4-ACD8-4EA06493C6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishConverter", "..\PolishConverter\PolishConverter\PolishConverter.csproj", "{F8ADB1AF-2371-4628-8715-877669FB5EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxParserTests", "..\SyntaxParserTests\SyntaxParserTests.csproj", "{18429FE7-750C-4C8B-91B6-1520ED922A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B5AD044-F6C6-48B4-ACD8-4EA06493C6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5AD044-F6C6-48B4-ACD8-4EA06493C6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5AD044-F6C6-48B4-ACD8-4EA06493C6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5AD044-F6C6-48B4-ACD8-4EA06493C6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8ADB1AF-2371-4628-8715-877669FB5EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8ADB1AF-2371-4628-8715-877669FB5EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8ADB1AF-2371-4628-8715-877669FB5EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8ADB1AF-2371-4628-8715-877669FB5EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18429FE7-750C-4C8B-91B6-1520ED922A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
